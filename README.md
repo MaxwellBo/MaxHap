@@ -1,1 +1,3 @@
 # MaxHap
+
+Hapiness maximizing script
